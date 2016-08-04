@@ -1,10 +1,4 @@
-/*
- * testsymtab.c
- * John Rambo
- * rambo@csd.uoc.gr
- * hy255
- * as3
- */
+
 
 #include "symtable.h"
 #include <string.h>
